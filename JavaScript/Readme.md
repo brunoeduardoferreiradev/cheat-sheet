@@ -2,7 +2,7 @@
   <h1><i><b>JavaScript Cheat Sheet </b></i></h1>
 </div>
 
-## Métodos para manipulação de Arrays
+## **Métodos para manipulação de** _**Arrays**_
 <br>
 
 
